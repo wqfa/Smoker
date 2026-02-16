@@ -1,0 +1,2 @@
+# Smoker
+pip install Smoker
